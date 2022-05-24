@@ -1,13 +1,13 @@
 // En estas primeras 6 preguntas, reemplaza `null` por la respuesta
 
 // Crea una variable "string", puede contener lo que quieras:
-const nuevaString = null;
+const nuevaString = respuesta ; 
 
 // Crea una variable numérica, puede ser cualquier número:
-const nuevoNum = null;
+const nuevoNum = respuesta ; 
 
 // Crea una variable booleana:
-const nuevoBool = null;
+const nuevoBool = respuesta ;
 
 // Resuelve el siguiente problema matemático:
 const nuevaResta = 10 - null === 5;
@@ -31,12 +31,11 @@ function devolverString(str) {
   
 }
 
-function suma(x, y) {
+functionsuma(x, y) 
   // "x" e "y" son números
   // Suma "x" e "y" juntos y devuelve el valor
   // Tu código:
   
-}
 
 function resta(x, y) {
   // Resta "y" de "x" y devuelve el valor
